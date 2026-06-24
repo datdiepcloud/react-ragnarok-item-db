@@ -1,0 +1,118 @@
+.count {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin: 0 0 14px 0;
+}
+
+.searchRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.searchInput {
+  flex: 1;
+  max-width: 320px;
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: var(--bg-input);
+  color: var(--text-primary);
+  font-size: 13px;
+  outline: none;
+  transition: border-color 0.12s;
+}
+
+.searchInput::placeholder {
+  color: var(--text-dim);
+}
+
+.searchInput:focus {
+  border-color: var(--accent-border);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(clamp(180px, 14vw, 280px), 1fr));
+  gap: clamp(6px, 0.6vw, 12px);
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: clamp(8px, 0.8vw, 14px);
+  padding: clamp(10px, 1vw, 18px) clamp(12px, 1.2vw, 20px);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: clamp(6px, 0.6vw, 10px);
+  cursor: pointer;
+  text-align: left;
+  transition: border-color 0.12s, background 0.12s;
+  width: 100%;
+  position: relative;
+}
+
+.card:hover {
+  border-color: var(--accent-border);
+  background: var(--accent-subtle);
+}
+
+.icon {
+  width: clamp(28px, 2.5vw, 48px);
+  height: clamp(28px, 2.5vw, 48px);
+  object-fit: contain;
+  flex-shrink: 0;
+  image-rendering: pixelated;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(2px, 0.2vw, 4px);
+  min-width: 0;
+  flex: 1;
+}
+
+.name {
+  font-size: clamp(12px, 1vw, 16px);
+  font-weight: 500;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.id {
+  font-size: clamp(10px, 0.8vw, 13px);
+  color: var(--text-dim);
+  font-family: monospace;
+}
+
+.craftBadge {
+  font-size: clamp(12px, 1vw, 16px);
+  opacity: 0.6;
+  flex-shrink: 0;
+}
+
+.empty {
+  text-align: center;
+  padding: 60px 24px;
+  color: var(--text-muted);
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.hint {
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.hint code {
+  background: var(--bg-ingredient);
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-size: 11px;
+}

@@ -1,0 +1,40 @@
+.nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2px;
+  margin-bottom: 16px;
+  font-size: 13px;
+}
+
+.segment {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.sep {
+  color: var(--text-dim);
+  padding: 0 4px;
+  font-size: 14px;
+}
+
+.link {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: var(--text-link);
+  font-size: 13px;
+  transition: color 0.12s;
+}
+
+.link:hover {
+  color: var(--text-link-hover);
+  text-decoration: underline;
+}
+
+.current {
+  color: var(--text-primary);
+  font-weight: 600;
+}

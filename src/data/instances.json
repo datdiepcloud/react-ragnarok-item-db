@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "name": "Airship Crash",
+    "minLevel": 200,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "An airship crashes on an unidentified island; players help an expedition team investigate powerful monsters affected by a scattered Ymir Stone.",
+    "dropItemIds": [470071, 470072, 470073, 470074, 470076, 470077, 102573, 100476, 300170, 300171, 300172]
+  },
+  {
+    "id": 2,
+    "name": "Airship Destruction",
+    "minLevel": 200,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 19,
+    "description": "Players infiltrate and destroy an airship from within, culminating in a battle against Aquila.",
+    "dropItemIds": [1000608, 1000811, 1000812, 1000813, 1000814, 102564, 102565, 300382]
+  },
+  {
+    "id": 3,
+    "name": "Airship Raid",
+    "minLevel": 125,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Players board an airship under attack and must defeat monsters across multiple floors before confronting the possessed Captain Ferlock.",
+    "dropItemIds": [27181, 27182, 15116, 20743, 22046, 19914, 15117, 20744, 22047]
+  },
+  {
+    "id": 4,
+    "name": "Alice Twisted Madness",
+    "minLevel": 175,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Navigate a twisted labyrinth to help Alice regain her memories and confront an evil villain.",
+    "dropItemIds": [1001076, 1001083, 1001079, 1001074, 1001082, 22829]
+  },
+  {
+    "id": 5,
+    "name": "Bakonawa Lake",
+    "minLevel": 120,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Players battle the Bakonawa, a legendary serpent threatening Port Malaya, across three combat phases.",
+    "dropItemIds": [6516, 6523, 6499, 15051, 2169, 969]
+  },
+  {
+    "id": 6,
+    "name": "Bangungot Hospital",
+    "minLevel": 100,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Players battle Bangungot and her minions across multiple phases in a haunted hospital.",
+    "dropItemIds": [2910, 2911, 2907, 15052, 2170]
+  },
+  {
+    "id": 7,
+    "name": "Bioresearch Laboratory",
+    "minLevel": 170,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Players battle through multiple zones to fight an MVP and obtain Edda weapons.",
+    "dropItemIds": [25786, 25787, 102571, 19439, 22171, 23992, 23994, 100753, 100821]
+  },
+  {
+    "id": 8,
+    "name": "Bios Island",
+    "minLevel": 160,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A three-floor instance where players eliminate corrupted monsters and face the MVP Reaper Yanku.",
+    "dropItemIds": [6684, 22537, 27328, 27327]
+  },
+  {
+    "id": 9,
+    "name": "Buwaya Cave",
+    "minLevel": 130,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Players fight the boss Buwaya, getting kidnapped into its chest during battle.",
+    "dropItemIds": [2910, 2911, 2907, 15052, 2170, 6516, 6517, 6518, 6523, 6499, 15051, 2169]
+  },
+  {
+    "id": 10,
+    "name": "Central Laboratory",
+    "minLevel": 140,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 15,
+    "description": "Travel to the past and fight 3 randomly spawned MVPs from across Rune-Midgards in a failed experiment scenario.",
+    "dropItemIds": []
+  },
+  {
+    "id": 11,
+    "name": "Charleston Crisis",
+    "minLevel": 130,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Factory instance where players destroy security devices, investigate generators, and defeat Charleston 3 boss.",
+    "dropItemIds": [6213, 6752, 4698, 4699, 27012, 27013, 4697]
+  },
+  {
+    "id": 12,
+    "name": "Constellation Tower",
+    "minLevel": 240,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Major overhaul of Endless Tower featuring randomized floor monsters and unique difficulty system with time restrictions.",
+    "dropItemIds": [1000372, 1000373, 1000396, 1000397, 1000442, 1000443, 1000444, 400147, 400148]
+  },
+  {
+    "id": 13,
+    "name": "Cor Mission",
+    "minLevel": 110,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Daily instance quest requiring players to visit multiple locations, defeat enemies, and battle the MVP EL1-A17T.",
+    "dropItemIds": [25669, 25723, 102557, 27320, 27304, 27306, 27307, 27305]
+  },
+  {
+    "id": 14,
+    "name": "Devil Tower",
+    "minLevel": 130,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Parties battle evil shadows and magical seals while assisting Loki to defeat the Evil Believer boss.",
+    "dropItemIds": [27264, 27265, 16027, 18120, 28001, 21010, 13094, 1671]
+  },
+  {
+    "id": 15,
+    "name": "Endless Tower",
+    "minLevel": 50,
+    "maxParty": 12,
+    "cooldown": "3 days",
+    "episode": 0,
+    "description": "A 100-floor dungeon with progressively stronger MVPs, culminating in Entweihen Knothen on Floor 100.",
+    "dropItemIds": [13412, 13413, 1185]
+  },
+  {
+    "id": 16,
+    "name": "Endless Cellar",
+    "minLevel": 90,
+    "maxParty": 12,
+    "cooldown": "3 days",
+    "episode": 0,
+    "description": "A high-level version of the Endless Tower featuring powerful MVPs across multiple floor ranges including Bio 3 MVPs.",
+    "dropItemIds": []
+  },
+  {
+    "id": 17,
+    "name": "Faceworm's Nest",
+    "minLevel": 140,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Instance dungeon featuring five boss fights against Dark Faceworms and a final battle with the Faceworm Queen.",
+    "dropItemIds": [20717, 20718, 27163, 27164, 27165, 27166, 27167]
+  },
+  {
+    "id": 18,
+    "name": "Fall of Glastheim",
+    "minLevel": 130,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Players fight through cursed knights and face the Cursed King Schmidt boss.",
+    "dropItemIds": [25739, 102550, 25740, 102551, 27329]
+  },
+  {
+    "id": 19,
+    "name": "Geffen Magic Tournament",
+    "minLevel": 90,
+    "maxParty": 1,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A solo tournament instance where players compete in 13 rounds against progressively stronger opponents.",
+    "dropItemIds": [27249, 27250, 27253, 27252, 27251, 27254, 27255, 27256, 4556, 4557, 22511]
+  },
+  {
+    "id": 20,
+    "name": "Ghost Palace",
+    "minLevel": 120,
+    "maxParty": 1,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A solo instance where players confront the corrupted Sakray and face the Torturous Redeemer boss.",
+    "dropItemIds": [6672, 27184, 15090, 20721, 18820, 22033, 2187, 13441, 21009, 16028, 13093, 1988, 1933, 1669, 1438, 1836]
+  },
+  {
+    "id": 21,
+    "name": "Hazy Forest",
+    "minLevel": 99,
+    "maxParty": 12,
+    "cooldown": "3 hours",
+    "episode": 0,
+    "description": "A timed instance where players navigate through a forest, defeating monsters and chopping trees on marked islands.",
+    "dropItemIds": []
+  },
+  {
+    "id": 22,
+    "name": "Heart Hunter War Base",
+    "minLevel": 100,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 16,
+    "description": "An instance-based war base where players defeat Heart Hunter Guards and an MVP after completing prerequisite quests.",
+    "dropItemIds": []
+  },
+  {
+    "id": 23,
+    "name": "Horror Toy Factory",
+    "minLevel": 140,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A haunted toy factory with 4 areas culminating in an MVP battle against Celine Kimi. All monsters drop Bloody Coins.",
+    "dropItemIds": [7642, 18849, 32237, 2980, 20955]
+  },
+  {
+    "id": 24,
+    "name": "Infinite Space",
+    "minLevel": 100,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A 50-chamber instance where players clear rooms of monsters, face MVPs at specific intervals, and earn currency for exclusive gear.",
+    "dropItemIds": [6905, 4642, 4643, 4644, 4645, 4646, 4647, 4648, 4649, 4650, 4651, 28703, 18128, 21014, 1938, 1994]
+  },
+  {
+    "id": 25,
+    "name": "Lake of Fire",
+    "minLevel": 250,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A 60-minute instance where players lure a randomly selected boss into traps to reduce its protection before direct combat.",
+    "dropItemIds": [1001415, 1001414, 1001440, 1001441, 1001442, 1001443]
+  },
+  {
+    "id": 26,
+    "name": "Last Room",
+    "minLevel": 140,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 15,
+    "description": "Players investigate mysterious ruins and confront a rogue AI system in an underground facility.",
+    "dropItemIds": [27018, 27019, 27020, 6827, 18997, 28326, 28327]
+  },
+  {
+    "id": 27,
+    "name": "Lost in Time",
+    "minLevel": 130,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 17,
+    "description": "Players navigate through time-twisted areas fighting Pitaya monsters and battling the Boss Meow.",
+    "dropItemIds": [1000103, 1000104, 102558]
+  },
+  {
+    "id": 28,
+    "name": "Malangdo Culvert",
+    "minLevel": 140,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Players clean underwater drains of contaminated seaweed and defeat Coelacanth bosses.",
+    "dropItemIds": [12636, 6423, 6418, 6419, 12615, 12614, 12617, 12618, 12619, 12620, 4035, 4527, 4526, 4528, 4529]
+  },
+  {
+    "id": 29,
+    "name": "Memories of Thanatos",
+    "minLevel": 180,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A 7-floor instance where players traverse memories of Thanatos, facing randomized memory floors and the final boss.",
+    "dropItemIds": [1000263, 1000257, 490059, 490058, 490051, 490050, 400023, 436000, 436001, 436002, 4399, 300280]
+  },
+  {
+    "id": 30,
+    "name": "Morse's Cave",
+    "minLevel": 160,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "An instance dungeon featuring five phases where parties fight Morroc's minions and ultimately face the MVP Morroc Necromancer.",
+    "dropItemIds": [6684, 22537, 27326]
+  },
+  {
+    "id": 31,
+    "name": "Mysterious Ghost Ship",
+    "minLevel": 0,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 21,
+    "description": "An instance dungeon featuring a ghost ship with multiple decks and a boss captain encounter.",
+    "dropItemIds": [1001618, 102947, 300532]
+  },
+  {
+    "id": 32,
+    "name": "Nidhoggur's Nest",
+    "minLevel": 70,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Parties battle Nidhoggur's Shadow across multiple floors with periodic side-room challenges.",
+    "dropItemIds": [2554]
+  },
+  {
+    "id": 33,
+    "name": "Nightmarish Jitterbug",
+    "minLevel": 120,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 14,
+    "description": "A musical-themed instance where players progress through rooms fighting demon mobs including piano-like Jitterbugs.",
+    "dropItemIds": [6719, 27107, 27108, 27109, 27106, 18123, 18122, 1990, 1935, 2989, 2988, 2991, 2990, 2992]
+  },
+  {
+    "id": 34,
+    "name": "Octopus Cave",
+    "minLevel": 0,
+    "maxParty": 12,
+    "cooldown": "3 hours",
+    "episode": 0,
+    "description": "Players fight through four portal tunnels to defeat Octopus Legs, then face the Giant Octopus MVP boss.",
+    "dropItemIds": [4035, 28381, 4424, 12615, 4533, 12618, 12614, 4534]
+  },
+  {
+    "id": 35,
+    "name": "Old Glast Heim",
+    "minLevel": 130,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A challenging dungeon with corrupted beings and powerful MVPs; players progress through two levels before facing Amdarais.",
+    "dropItemIds": [6608, 6755, 6607]
+  },
+  {
+    "id": 36,
+    "name": "Old Glast Heim Challenge Mode",
+    "minLevel": 170,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Challenging hard-mode version of Old Glast Heim where parties clear monsters on two sides and face MVP bosses.",
+    "dropItemIds": [27382, 27381, 27383, 27387, 27386, 25864, 25865, 25866, 25867, 102552, 102553, 28774, 28775]
+  },
+  {
+    "id": 37,
+    "name": "Orc's Memory",
+    "minLevel": 60,
+    "maxParty": 1,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A soloable instance where players fight the Orc Hero boss after defeating Orc Skeletons.",
+    "dropItemIds": [28522, 922]
+  },
+  {
+    "id": 38,
+    "name": "Poring Village",
+    "minLevel": 10,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "An instance where adventurers battle Porings alongside Lunos to claim treasure from Poring Village.",
+    "dropItemIds": [22101, 19117, 19118]
+  },
+  {
+    "id": 39,
+    "name": "Sarah and Fenrir",
+    "minLevel": 145,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Instance dungeon where players encounter Sarah and Fenrir, choosing to aid either the main character or Professor Bernhard.",
+    "dropItemIds": [27183, 4610, 15121, 28310, 28311, 6803]
+  },
+  {
+    "id": 40,
+    "name": "Sarah's Memory",
+    "minLevel": 99,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A story instance where players follow Sara through palace areas while defeating guards to uncover the truth about her father Doyen.",
+    "dropItemIds": [12043, 12058, 12053, 12048, 12063, 12068, 27169, 27168]
+  },
+  {
+    "id": 41,
+    "name": "Sealed Shrine",
+    "minLevel": 75,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Parties must collect items and defeat the Great Demon Baphomet in an ancient shrine.",
+    "dropItemIds": [6001, 6002, 6003]
+  },
+  {
+    "id": 42,
+    "name": "Sky Fortress",
+    "minLevel": 145,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A high-level instance where players battle undead forces and face the boss Stefan J.E. Wolf across multiple waves.",
+    "dropItemIds": [984, 985, 608, 607, 616, 12246, 6960, 28605, 13328, 1800, 1450, 16041, 18121, 13128, 1600]
+  },
+  {
+    "id": 43,
+    "name": "Tomb of Remorse",
+    "minLevel": 220,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "Players battle undead enemies across four floors, culminating in fights against boss characters Tiara and Sakray.",
+    "dropItemIds": [1000367, 102570, 300192, 300193, 100479, 100485, 100480, 100486]
+  },
+  {
+    "id": 44,
+    "name": "Tower of Trials",
+    "minLevel": 250,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A 100-floor party-focused endgame instance with random monsters and MVPs; no item drops inside.",
+    "dropItemIds": []
+  },
+  {
+    "id": 45,
+    "name": "Villa of Deception",
+    "minLevel": 170,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 18,
+    "description": "Instance dungeon featuring three areas with gimmicks and two boss fights against Schulang and Twisted God Freya.",
+    "dropItemIds": [100650, 100651, 100652, 100653, 1000405, 1000471, 1000501, 1000502, 102562]
+  },
+  {
+    "id": 46,
+    "name": "Water Garden",
+    "minLevel": 130,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 17,
+    "description": "Instance dungeon featuring five sections with puzzle mechanics and a boss encounter.",
+    "dropItemIds": []
+  },
+  {
+    "id": 47,
+    "name": "Wave Mode",
+    "minLevel": 0,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A tower defense-style mini-game in a memorial dungeon lasting 1 hour with waves of increasingly powerful monsters.",
+    "dropItemIds": [607, 6716, 6717, 6718, 23135]
+  },
+  {
+    "id": 48,
+    "name": "Werner's Laboratory",
+    "minLevel": 100,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "An instance dungeon where players must solve color-coded security puzzles and defeat an MVP.",
+    "dropItemIds": [25155, 27152, 28913, 15212, 20856, 22141]
+  },
+  {
+    "id": 49,
+    "name": "Wolfchev's Laboratory",
+    "minLevel": 150,
+    "maxParty": 12,
+    "cooldown": "1 day",
+    "episode": 0,
+    "description": "A 4-room instance where players defeat waves of mobs and face a random Bio3 or Bio4 MVP boss.",
+    "dropItemIds": [4357, 4359, 4362, 4363, 4367, 4365, 4565, 4563, 4561, 4562, 4564, 4560, 4566, 2582, 18570, 16017]
+  }
+]

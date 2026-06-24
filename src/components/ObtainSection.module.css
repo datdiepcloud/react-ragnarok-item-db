@@ -1,0 +1,105 @@
+.section {
+  margin-top: 20px;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--accent);
+  margin: 0 0 12px 0;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.group {
+  margin-bottom: 16px;
+}
+
+.groupLabel {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.table th {
+  text-align: left;
+  color: var(--text-muted);
+  font-weight: 500;
+  padding: 4px 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.table td {
+  padding: 6px 8px;
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--border);
+  vertical-align: middle;
+}
+
+.table tr:last-child td {
+  border-bottom: none;
+}
+
+.table tr:hover td {
+  background: var(--accent-subtle);
+}
+
+.monsterIcon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.mapName {
+  color: var(--map-color);
+  font-family: monospace;
+  font-size: 12px;
+}
+
+.dropRate {
+  color: var(--drop-rate-color);
+  font-weight: 600;
+}
+
+.price {
+  color: var(--price-color);
+  font-weight: 500;
+}
+
+.questItem {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 6px 8px;
+  border-left: 2px solid var(--quest-border);
+  margin-bottom: 8px;
+  background: var(--quest-bg);
+  border-radius: 0 4px 4px 0;
+}
+
+.questName {
+  font-size: 13px;
+  color: var(--quest-name);
+  font-weight: 500;
+}
+
+.questDesc {
+  font-size: 12px;
+  color: var(--quest-desc);
+}
+
+.empty {
+  color: var(--text-dim);
+  font-size: 13px;
+  font-style: italic;
+}

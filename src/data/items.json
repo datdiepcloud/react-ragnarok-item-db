@@ -1,0 +1,3605 @@
+{
+  "501": {
+    "id": 501,
+    "name": "Red Potion",
+    "type": "Etc",
+    "description": "A potion that restores 45 HP. Essential for any adventurer.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Tool Dealer",
+        "map": "prontera",
+        "price": 50
+      },
+      {
+        "type": "monster",
+        "monsterId": 1115,
+        "monsterName": "Orc Warrior",
+        "map": "gef_fild10",
+        "dropRate": 1
+      }
+    ],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "502": {
+    "id": 502,
+    "name": "Orange Potion",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "503": {
+    "id": 503,
+    "name": "Yellow Potion",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "504": {
+    "id": 504,
+    "name": "White Potion",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "505": {
+    "id": 505,
+    "name": "Blue Potion",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "506": {
+    "id": 506,
+    "name": "Green Potion",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "507": {
+    "id": 507,
+    "name": "Red Herb",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion",
+      "Dye"
+    ]
+  },
+  "508": {
+    "id": 508,
+    "name": "Yellow Herb",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion",
+      "Dye"
+    ]
+  },
+  "509": {
+    "id": 509,
+    "name": "White Herb",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion",
+      "Dye"
+    ]
+  },
+  "510": {
+    "id": 510,
+    "name": "Blue Herb",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion",
+      "Dye"
+    ]
+  },
+  "511": {
+    "id": 511,
+    "name": "Green Herb",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion",
+      "Dye"
+    ]
+  },
+  "512": {
+    "id": 512,
+    "name": "Apple",
+    "type": "Etc",
+    "description": "A juicy apple that restores 30 HP when consumed.",
+    "obtainFrom": [
+      {
+        "type": "monster",
+        "monsterId": 1002,
+        "monsterName": "Poring",
+        "map": "prontera_field08",
+        "dropRate": 50
+      },
+      {
+        "type": "shop",
+        "npcName": "Tool Dealer",
+        "map": "prontera",
+        "price": 15
+      }
+    ],
+    "categories": [
+      "Tame",
+      "Juice"
+    ]
+  },
+  "513": {
+    "id": 513,
+    "name": "Orange",
+    "type": "Etc",
+    "description": "A fresh orange that restores 30 HP and 10 SP.",
+    "obtainFrom": [
+      {
+        "type": "monster",
+        "monsterId": 1004,
+        "monsterName": "Fabre",
+        "map": "prt_fild00",
+        "dropRate": 40
+      }
+    ],
+    "categories": [
+      "Juice"
+    ]
+  },
+  "514": {
+    "id": 514,
+    "name": "Grape",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Juice"
+    ]
+  },
+  "515": {
+    "id": 515,
+    "name": "Carrot",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Juice"
+    ]
+  },
+  "517": {
+    "id": 517,
+    "name": "Meat",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Juice"
+    ]
+  },
+  "531": {
+    "id": 531,
+    "name": "Apple Juice",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Juice"
+    ]
+  },
+  "532": {
+    "id": 532,
+    "name": "Banana Juice",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Juice"
+    ]
+  },
+  "533": {
+    "id": 533,
+    "name": "Grape Juice",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Juice"
+    ]
+  },
+  "534": {
+    "id": 534,
+    "name": "Carrot Juice",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Juice"
+    ]
+  },
+  "607": {
+    "id": 607,
+    "name": "Yggdrasil Berry",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "608": {
+    "id": 608,
+    "name": "Yggdrasil Seed",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "616": {
+    "id": 616,
+    "name": "Old Card Album",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "626": {
+    "id": 626,
+    "name": "Monster Juice",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "629": {
+    "id": 629,
+    "name": "Singing Flower",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "635": {
+    "id": 635,
+    "name": "Orc Trophy",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "636": {
+    "id": 636,
+    "name": "No Recipient",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "642": {
+    "id": 642,
+    "name": "Book of the Devil",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "659": {
+    "id": 659,
+    "name": "Her Heart",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "702": {
+    "id": 702,
+    "name": "Animal Gore",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "707": {
+    "id": 707,
+    "name": "Singing Plant",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "713": {
+    "id": 713,
+    "name": "Empty Bottle",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Juice",
+      "Potion",
+      "Dye"
+    ]
+  },
+  "901": {
+    "id": 901,
+    "name": "Daenggie",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "904": {
+    "id": 904,
+    "name": "Scorpion Tail",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "909": {
+    "id": 909,
+    "name": "Jellopy",
+    "type": "Etc",
+    "description": "A sticky substance dropped by Porings. Used in various crafting recipes.",
+    "obtainFrom": [
+      {
+        "type": "monster",
+        "monsterId": 1002,
+        "monsterName": "Poring",
+        "map": "prontera_field08",
+        "dropRate": 70
+      },
+      {
+        "type": "monster",
+        "monsterId": 1007,
+        "monsterName": "Lunatic",
+        "map": "prontera_field08",
+        "dropRate": 60
+      }
+    ],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "914": {
+    "id": 914,
+    "name": "Fluff",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "916": {
+    "id": 916,
+    "name": "Feather of Birds",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "922": {
+    "id": 922,
+    "name": "Orc's Fang",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "935": {
+    "id": 935,
+    "name": "Shell",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "955": {
+    "id": 955,
+    "name": "Worm Peeling",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Potion"
+    ]
+  },
+  "958": {
+    "id": 958,
+    "name": "Horrendous Mouth",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "969": {
+    "id": 969,
+    "name": "Gold",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "970": {
+    "id": 970,
+    "name": "Alcohol",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "971": {
+    "id": 971,
+    "name": "Detrimindexta",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "972": {
+    "id": 972,
+    "name": "Karvodailnirol",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "973": {
+    "id": 973,
+    "name": "Counteragent",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "974": {
+    "id": 974,
+    "name": "Mixture",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "975": {
+    "id": 975,
+    "name": "Scarlet Dyestuffs",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "976": {
+    "id": 976,
+    "name": "Lemon Dyestuffs",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "978": {
+    "id": 978,
+    "name": "Cobaltblue Dyestuffs",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "979": {
+    "id": 979,
+    "name": "Darkgreen Dyestuffs",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "980": {
+    "id": 980,
+    "name": "Orange Dyestuffs",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "981": {
+    "id": 981,
+    "name": "Violet Dyestuffs",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "982": {
+    "id": 982,
+    "name": "White Dyestuffs",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "983": {
+    "id": 983,
+    "name": "Black Dyestuffs",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "984": {
+    "id": 984,
+    "name": "Oridecon",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "985": {
+    "id": 985,
+    "name": "Elunium",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1004": {
+    "id": 1004,
+    "name": "Chivalry Emblem",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "1006": {
+    "id": 1006,
+    "name": "Old Magic Book",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "1010": {
+    "id": 1010,
+    "name": "Phracon",
+    "type": "Etc",
+    "description": "An impure substance used to upgrade weapons. Used as upgrade material for level 1 weapons.",
+    "recipe": {
+      "npcName": "Hollgrehenn",
+      "map": "geffen",
+      "zeny": 200,
+      "ingredients": [
+        {
+          "itemId": 909,
+          "quantity": 50
+        },
+        {
+          "itemId": 512,
+          "quantity": 5
+        }
+      ]
+    },
+    "obtainFrom": [
+      {
+        "type": "monster",
+        "monsterId": 1038,
+        "monsterName": "Zombie",
+        "map": "payon_dun01",
+        "dropRate": 1.5
+      },
+      {
+        "type": "shop",
+        "npcName": "Blacksmith Shop",
+        "map": "geffen",
+        "price": 1000
+      }
+    ]
+  },
+  "1101": {
+    "id": 1101,
+    "name": "Sword",
+    "type": "Weapon",
+    "episode": 1,
+    "description": "A basic one-handed sword. ATK: 35. Weapon Level 1.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Weapon Dealer",
+        "map": "prontera",
+        "price": 500
+      }
+    ]
+  },
+  "1103": {
+    "id": 1103,
+    "name": "Falchion",
+    "type": "Weapon",
+    "episode": 1,
+    "description": "A curved one-handed sword. ATK: 44. Weapon Level 1.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Weapon Dealer",
+        "map": "prontera",
+        "price": 900
+      },
+      {
+        "type": "monster",
+        "monsterId": 1013,
+        "monsterName": "Thief Bug",
+        "map": "prt_fild00",
+        "dropRate": 0.2
+      }
+    ]
+  },
+  "1119": {
+    "id": 1119,
+    "name": "Katana",
+    "type": "Weapon",
+    "episode": 2,
+    "description": "A long Japanese-style sword. ATK: 75. Weapon Level 2. Can be equipped by Swordman and Merchant.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Weapon Dealer",
+        "map": "geffen",
+        "price": 8500
+      },
+      {
+        "type": "monster",
+        "monsterId": 1115,
+        "monsterName": "Orc Warrior",
+        "map": "gef_fild10",
+        "dropRate": 0.45
+      }
+    ]
+  },
+  "1155": {
+    "id": 1155,
+    "name": "Zweihander",
+    "type": "Weapon",
+    "episode": 3,
+    "description": "A massive two-handed sword. ATK: 160. Weapon Level 3. Requires STR 80.",
+    "obtainFrom": [
+      {
+        "type": "monster",
+        "monsterId": 1268,
+        "monsterName": "Dark Lord",
+        "map": "gl_chyard",
+        "dropRate": 0.05
+      }
+    ]
+  },
+  "1185": {
+    "id": 1185,
+    "name": "Violet Fear [2]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1229": {
+    "id": 1229,
+    "name": "Main Gauche",
+    "type": "Weapon",
+    "episode": 4,
+    "description": "A parrying dagger with a broad guard. ATK: 53. Weapon Level 2. Enables 4 card slots.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Weapon Dealer",
+        "map": "morroc",
+        "price": 15000
+      },
+      {
+        "type": "monster",
+        "monsterId": 1204,
+        "monsterName": "Mummy",
+        "map": "moc_fild17",
+        "dropRate": 0.1
+      }
+    ]
+  },
+  "1438": {
+    "id": 1438,
+    "name": "Thanatos Spear [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1450": {
+    "id": 1450,
+    "name": "Vicious Mind Lance [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1558": {
+    "id": 1558,
+    "name": "Girl's Diary [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "1600": {
+    "id": 1600,
+    "name": "Vicious Mind Rod [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1669": {
+    "id": 1669,
+    "name": "Thanatos Staff [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1671": {
+    "id": 1671,
+    "name": "Evil Slayer Vanquisher Staff [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1800": {
+    "id": 1800,
+    "name": "Vicious Mind Fist [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1836": {
+    "id": 1836,
+    "name": "Thanatos Knuckle [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1933": {
+    "id": 1933,
+    "name": "Thanatos Violin [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1935": {
+    "id": 1935,
+    "name": "New Oz's Ukulele [2]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1938": {
+    "id": 1938,
+    "name": "Infinity Violin [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1988": {
+    "id": 1988,
+    "name": "Thanatos Whip [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1990": {
+    "id": 1990,
+    "name": "Aigu's Floral Mic [2]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1994": {
+    "id": 1994,
+    "name": "Infinity Wire [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2169": {
+    "id": 2169,
+    "name": "Kalasag",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2170": {
+    "id": 2170,
+    "name": "Kalasag (Bayani) [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2187": {
+    "id": 2187,
+    "name": "Grey Shield [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2202": {
+    "id": 2202,
+    "name": "Stiletto",
+    "type": "Weapon",
+    "episode": 1,
+    "description": "A thin sword designed for thrusting. ATK: 55. Weapon Level 2.",
+    "recipe": {
+      "npcName": "Weaponsmith Altiregen",
+      "map": "alberta",
+      "zeny": 5000,
+      "ingredients": [
+        {
+          "itemId": 1010,
+          "quantity": 3
+        },
+        {
+          "itemId": 909,
+          "quantity": 100
+        },
+        {
+          "itemId": 512,
+          "quantity": 20
+        }
+      ]
+    },
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Weapon Dealer",
+        "map": "prontera",
+        "price": 12000
+      },
+      {
+        "type": "monster",
+        "monsterId": 1208,
+        "monsterName": "Skel Worker",
+        "map": "mjolnir_06",
+        "dropRate": 0.3
+      }
+    ]
+  },
+  "2301": {
+    "id": 2301,
+    "name": "Cotton Shirt",
+    "type": "Armor",
+    "episode": 1,
+    "description": "A basic shirt made of cotton. DEF: 3.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Armor Dealer",
+        "map": "prontera",
+        "price": 80
+      }
+    ]
+  },
+  "2303": {
+    "id": 2303,
+    "name": "Coat",
+    "type": "Armor",
+    "episode": 1,
+    "description": "A sturdy coat. DEF: 9. Can be worn by most classes.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Armor Dealer",
+        "map": "prontera",
+        "price": 2500
+      },
+      {
+        "type": "monster",
+        "monsterId": 1115,
+        "monsterName": "Orc Warrior",
+        "map": "gef_fild10",
+        "dropRate": 0.3
+      }
+    ]
+  },
+  "2320": {
+    "id": 2320,
+    "name": "Chain Mail",
+    "type": "Armor",
+    "episode": 2,
+    "description": "Armor made of interlocking metal rings. DEF: 25. Swordman class only.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Armor Dealer",
+        "map": "geffen",
+        "price": 22000
+      },
+      {
+        "type": "monster",
+        "monsterId": 1145,
+        "monsterName": "Soldier Orc",
+        "map": "gef_fild10",
+        "dropRate": 0.25
+      }
+    ]
+  },
+  "2357": {
+    "id": 2357,
+    "name": "Plate Armor",
+    "type": "Armor",
+    "episode": 3,
+    "description": "Heavy full-body armor. DEF: 60. Knight and Crusader only. Requires VIT 30.",
+    "obtainFrom": [
+      {
+        "type": "shop",
+        "npcName": "Armor Dealer",
+        "map": "alberta",
+        "price": 85000
+      },
+      {
+        "type": "monster",
+        "monsterId": 1389,
+        "monsterName": "Bloody Knight",
+        "map": "gl_cas01",
+        "dropRate": 0.08
+      }
+    ]
+  },
+  "2399": {
+    "id": 2399,
+    "name": "Valkyrian Armor",
+    "type": "Armor",
+    "episode": 10,
+    "description": "Armor blessed by the Valkyries. DEF: 65. Indestructible. All classes. Adds resistance to Silence.",
+    "obtainFrom": [
+      {
+        "type": "monster",
+        "monsterId": 1751,
+        "monsterName": "Valkyrie Randgris",
+        "map": "odin_tem03",
+        "dropRate": 0.02
+      }
+    ]
+  },
+  "2554": {
+    "id": 2554,
+    "name": "Nidhoggur's Shadow Garb [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2582": {
+    "id": 2582,
+    "name": "Salvage Cape",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2907": {
+    "id": 2907,
+    "name": "Buwaya Agimat Tattoo",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2910": {
+    "id": 2910,
+    "name": "Bakonawa Agimat Tattoo",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2911": {
+    "id": 2911,
+    "name": "Bangungot Agimat Tattoo",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2980": {
+    "id": 2980,
+    "name": "Evil Thread Glove [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2988": {
+    "id": 2988,
+    "name": "New Oz's Wing Ring [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2989": {
+    "id": 2989,
+    "name": "Aigu's Floral Bracelet [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2990": {
+    "id": 2990,
+    "name": "Pendant of Harmony",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2991": {
+    "id": 2991,
+    "name": "Pendant of Chaos",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "2992": {
+    "id": 2992,
+    "name": "Pendant of Maelstrom [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4035": {
+    "id": 4035,
+    "name": "Hydra Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4357": {
+    "id": 4357,
+    "name": "[MVP] Lord Knight Seyren Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4359": {
+    "id": 4359,
+    "name": "[MVP] Assassin Cross Eremes Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4362": {
+    "id": 4362,
+    "name": "Howard Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4363": {
+    "id": 4363,
+    "name": "[MVP] High Priest Magaleta Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4365": {
+    "id": 4365,
+    "name": "[MVP] High Wizard Katrinn Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4367": {
+    "id": 4367,
+    "name": "[MVP] Sniper Shecil Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4399": {
+    "id": 4399,
+    "name": "[MVP] Thanatos Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4424": {
+    "id": 4424,
+    "name": "Stapo Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4526": {
+    "id": 4526,
+    "name": "[MVP] Weird Coelacanth Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4527": {
+    "id": 4527,
+    "name": "[MVP] Dark Coelacanth Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4528": {
+    "id": 4528,
+    "name": "[MVP] Mutant Coelacanth Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4529": {
+    "id": 4529,
+    "name": "[MVP] Violent Coelacanth Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4533": {
+    "id": 4533,
+    "name": "Octopus Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4534": {
+    "id": 4534,
+    "name": "[MVP] Giant Octopus Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4556": {
+    "id": 4556,
+    "name": "[MVP] Fenrir Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4557": {
+    "id": 4557,
+    "name": "Weakened Fenrir Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4560": {
+    "id": 4560,
+    "name": "[MVP] Clown Alphoccio Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4561": {
+    "id": 4561,
+    "name": "[MVP] Professor Celia Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4562": {
+    "id": 4562,
+    "name": "[MVP] Champion Chen Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4563": {
+    "id": 4563,
+    "name": "[MVP] Creator Flamel Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4564": {
+    "id": 4564,
+    "name": "[MVP] Stalker Gertie Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4565": {
+    "id": 4565,
+    "name": "[MVP] Paladin Randel Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4566": {
+    "id": 4566,
+    "name": "[MVP] Gypsy Trentini Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4610": {
+    "id": 4610,
+    "name": "[MVP] Sarah Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4642": {
+    "id": 4642,
+    "name": "Infinite Toad Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4643": {
+    "id": 4643,
+    "name": "Infinite Vagabond Wolf Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4644": {
+    "id": 4644,
+    "name": "Infinite Vocal Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4645": {
+    "id": 4645,
+    "name": "Infinite Eclipse Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4646": {
+    "id": 4646,
+    "name": "Infinite Chimera Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4647": {
+    "id": 4647,
+    "name": "[MVP] Infinite Osiris Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4648": {
+    "id": 4648,
+    "name": "[MVP] Infinite Eddga Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4649": {
+    "id": 4649,
+    "name": "[MVP] Infinite Phreeoni Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4650": {
+    "id": 4650,
+    "name": "[MVP] Infinite Orc Hero Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4651": {
+    "id": 4651,
+    "name": "[MVP] Infinite Tao Gunka Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4697": {
+    "id": 4697,
+    "name": "[MVP] Charleston3 Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4698": {
+    "id": 4698,
+    "name": "Step Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "4699": {
+    "id": 4699,
+    "name": "Rock Step Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6001": {
+    "id": 6001,
+    "name": "Essence of Fire",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6002": {
+    "id": 6002,
+    "name": "Token of Apostle",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6003": {
+    "id": 6003,
+    "name": "Pendant of Spirit",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6213": {
+    "id": 6213,
+    "name": "Explosive Powder",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6418": {
+    "id": 6418,
+    "name": "A Class Coin",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6419": {
+    "id": 6419,
+    "name": "B Class Coin",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6423": {
+    "id": 6423,
+    "name": "Seagod's Anger",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6499": {
+    "id": 6499,
+    "name": "Ancient Grudge",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6516": {
+    "id": 6516,
+    "name": "Bakonawa Doll",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6517": {
+    "id": 6517,
+    "name": "Bangungot Doll",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6518": {
+    "id": 6518,
+    "name": "Buwaya Doll",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6523": {
+    "id": 6523,
+    "name": "Piece of Bakonawa's Spirit",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6607": {
+    "id": 6607,
+    "name": "Temporal Crystal",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6608": {
+    "id": 6608,
+    "name": "Coagulated Spell",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6672": {
+    "id": 6672,
+    "name": "Grey Shard",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6684": {
+    "id": 6684,
+    "name": "Token Of Hero",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6716": {
+    "id": 6716,
+    "name": "Critical Stone (Top)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6717": {
+    "id": 6717,
+    "name": "Stamina Stone (Mid)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6718": {
+    "id": 6718,
+    "name": "Magical Stone (Low)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6719": {
+    "id": 6719,
+    "name": "Tooth of Jitterbug",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6752": {
+    "id": 6752,
+    "name": "Charleston Component",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6755": {
+    "id": 6755,
+    "name": "Contaminated Magic",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6803": {
+    "id": 6803,
+    "name": "Fragment of Gigantes",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6827": {
+    "id": 6827,
+    "name": "Complete Machine Part",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6905": {
+    "id": 6905,
+    "name": "Shattered Magic Stone",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "6960": {
+    "id": 6960,
+    "name": "Sky Fortress Key",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "7014": {
+    "id": 7014,
+    "name": "Old Portrait",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Tame"
+    ]
+  },
+  "7166": {
+    "id": 7166,
+    "name": "Old Blue Box",
+    "type": "Etc",
+    "description": "A blue box containing random items. Open it to receive a random prize.",
+    "recipe": {
+      "npcName": "Lhz_in02 Researcher",
+      "map": "lhz_in02",
+      "zeny": 10000,
+      "ingredients": [
+        {
+          "itemId": 909,
+          "quantity": 200
+        },
+        {
+          "itemId": 1010,
+          "quantity": 10
+        }
+      ]
+    },
+    "obtainFrom": [
+      {
+        "type": "monster",
+        "monsterId": 1389,
+        "monsterName": "Bloody Knight",
+        "map": "gl_cas01",
+        "dropRate": 0.1
+      },
+      {
+        "type": "quest",
+        "questName": "Gift Collection Quest",
+        "description": "Reward from collecting gifts in Alberta during Christmas event"
+      }
+    ]
+  },
+  "7580": {
+    "id": 7580,
+    "name": "Black Bead",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": [],
+    "categories": [
+      "Dye"
+    ]
+  },
+  "7642": {
+    "id": 7642,
+    "name": "Bloody Coin",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12043": {
+    "id": 12043,
+    "name": "Bomber Steak",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12048": {
+    "id": 12048,
+    "name": "Honey Herbal Tea",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12053": {
+    "id": 12053,
+    "name": "Clam Soup",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12058": {
+    "id": 12058,
+    "name": "Tentacle Cheese Gratin",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12063": {
+    "id": 12063,
+    "name": "Fruit Mix",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12068": {
+    "id": 12068,
+    "name": "Fried Sweet Potato",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12246": {
+    "id": 12246,
+    "name": "Mystical Card Album",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12614": {
+    "id": 12614,
+    "name": "Normal Coin Bag",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12615": {
+    "id": 12615,
+    "name": "Poor Coin Bag",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12617": {
+    "id": 12617,
+    "name": "A Grade Coin Bag",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12618": {
+    "id": 12618,
+    "name": "B Grade Coin Bag",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12619": {
+    "id": 12619,
+    "name": "C Grade Coin Bag",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12620": {
+    "id": 12620,
+    "name": "D Grade Coin Bag",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "12636": {
+    "id": 12636,
+    "name": "Malangdo Special Can",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "13093": {
+    "id": 13093,
+    "name": "Thanatos Dagger [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "13094": {
+    "id": 13094,
+    "name": "Evil Slayer Stabber Dagger [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "13128": {
+    "id": 13128,
+    "name": "Vicious Mind Revolver [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "13328": {
+    "id": 13328,
+    "name": "Vicious Mind Huuma Shuriken [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "13412": {
+    "id": 13412,
+    "name": "Twin Edge of Naght Sieger (B) [3]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "13413": {
+    "id": 13413,
+    "name": "Twin Edge of Naght Sieger (R) [3]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "13441": {
+    "id": 13441,
+    "name": "Thanatos Sword [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "15051": {
+    "id": 15051,
+    "name": "Bakonawa Scale Armor",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "15052": {
+    "id": 15052,
+    "name": "Bakonawa Scale Armor (Bayani) [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "15090": {
+    "id": 15090,
+    "name": "Grey Armor [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "15116": {
+    "id": 15116,
+    "name": "Airship Armor",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "15117": {
+    "id": 15117,
+    "name": "Felock's Armor",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "15121": {
+    "id": 15121,
+    "name": "Sarah's Battle Robe [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "15212": {
+    "id": 15212,
+    "name": "YSF01 Plate [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "16017": {
+    "id": 16017,
+    "name": "Bloody Cross",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "16027": {
+    "id": 16027,
+    "name": "Evil Slayer Destroyer Hammer [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "16028": {
+    "id": 16028,
+    "name": "Thanatos Hammer [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "16041": {
+    "id": 16041,
+    "name": "Vicious Mind Mace [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18120": {
+    "id": 18120,
+    "name": "Evil Slayer Piercer Bow [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18121": {
+    "id": 18121,
+    "name": "Vicious Mind Bow [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18122": {
+    "id": 18122,
+    "name": "Gigantic Bow [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18123": {
+    "id": 18123,
+    "name": "Bow of Storm [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18128": {
+    "id": 18128,
+    "name": "Infinity Bow [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18570": {
+    "id": 18570,
+    "name": "Ancient Gold Ornament [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18820": {
+    "id": 18820,
+    "name": "Grey Helmet [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18849": {
+    "id": 18849,
+    "name": "Celine's Ribbon [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "18997": {
+    "id": 18997,
+    "name": "Runaway Chip [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "19117": {
+    "id": 19117,
+    "name": "Poring Sunglasses",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "19118": {
+    "id": 19118,
+    "name": "Poring Sunglasses+ [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "19439": {
+    "id": 19439,
+    "name": "Vicious Mind Aura",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "19914": {
+    "id": 19914,
+    "name": "C. Felock's Hat (blue)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "20717": {
+    "id": 20717,
+    "name": "Gigant Snake Skin",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "20718": {
+    "id": 20718,
+    "name": "Gigant Snake Skin [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "20721": {
+    "id": 20721,
+    "name": "Grey Manteau [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "20743": {
+    "id": 20743,
+    "name": "Airship Manteau [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "20744": {
+    "id": 20744,
+    "name": "Felock's Manteau [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "20856": {
+    "id": 20856,
+    "name": "YSF01 Manteau [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "20955": {
+    "id": 20955,
+    "name": "Christmas Guardian Tree [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "21009": {
+    "id": 21009,
+    "name": "Thanatos Great Sword [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "21010": {
+    "id": 21010,
+    "name": "Evil Slayer Sword [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "21014": {
+    "id": 21014,
+    "name": "Infinity Two-Handed Sword [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22033": {
+    "id": 22033,
+    "name": "Grey Boots [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22046": {
+    "id": 22046,
+    "name": "Airship's Boots",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22047": {
+    "id": 22047,
+    "name": "Felock's Boots",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22101": {
+    "id": 22101,
+    "name": "Angel Poring Boots [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22141": {
+    "id": 22141,
+    "name": "YSF01 Greaves [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22171": {
+    "id": 22171,
+    "name": "Ancient Hero Boots [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22511": {
+    "id": 22511,
+    "name": "Fenrir's Power Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22537": {
+    "id": 22537,
+    "name": "Prize Of Hero",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "22829": {
+    "id": 22829,
+    "name": "Sealed Card Album",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "23135": {
+    "id": 23135,
+    "name": "Poring Capsule",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "23992": {
+    "id": 23992,
+    "name": "Experimental Weapon Box",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "23994": {
+    "id": 23994,
+    "name": "Bio Reactor Box",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24246": {
+    "id": 24246,
+    "name": "Swordman Shadow Earring",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24247": {
+    "id": 24247,
+    "name": "Merchant Shadow Earring",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24248": {
+    "id": 24248,
+    "name": "Acolyte Shadow Earring",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24249": {
+    "id": 24249,
+    "name": "Magician Shadow Earring",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24250": {
+    "id": 24250,
+    "name": "Swordman Shadow Pendant",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24251": {
+    "id": 24251,
+    "name": "Merchant Shadow Pendant",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24252": {
+    "id": 24252,
+    "name": "Acolyte Shadow Pendant",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24253": {
+    "id": 24253,
+    "name": "Thief Shadow Pendant",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24254": {
+    "id": 24254,
+    "name": "Magician Shadow Pendant",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24255": {
+    "id": 24255,
+    "name": "Archer Shadow Pendant",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24256": {
+    "id": 24256,
+    "name": "Knight Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24257": {
+    "id": 24257,
+    "name": "Crusader Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24258": {
+    "id": 24258,
+    "name": "Blacksmith Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24259": {
+    "id": 24259,
+    "name": "Alchemist Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24260": {
+    "id": 24260,
+    "name": "Priest Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24261": {
+    "id": 24261,
+    "name": "Monk Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24262": {
+    "id": 24262,
+    "name": "Assassin Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24263": {
+    "id": 24263,
+    "name": "Rogue Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24264": {
+    "id": 24264,
+    "name": "Wizard Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24265": {
+    "id": 24265,
+    "name": "Sage Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24266": {
+    "id": 24266,
+    "name": "Hunter Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24267": {
+    "id": 24267,
+    "name": "Bard Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24268": {
+    "id": 24268,
+    "name": "Dancer Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24269": {
+    "id": 24269,
+    "name": "Knight Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24270": {
+    "id": 24270,
+    "name": "Crusader Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24271": {
+    "id": 24271,
+    "name": "Blacksmith Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24272": {
+    "id": 24272,
+    "name": "Alchemist Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24273": {
+    "id": 24273,
+    "name": "Priest Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24274": {
+    "id": 24274,
+    "name": "Monk Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24275": {
+    "id": 24275,
+    "name": "Assassin Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24276": {
+    "id": 24276,
+    "name": "Rogue Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24277": {
+    "id": 24277,
+    "name": "Wizard Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24278": {
+    "id": 24278,
+    "name": "Sage Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24279": {
+    "id": 24279,
+    "name": "Hunter Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24280": {
+    "id": 24280,
+    "name": "Bard Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24281": {
+    "id": 24281,
+    "name": "Dancer Shadow Armor",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24284": {
+    "id": 24284,
+    "name": "Taekwondo Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24288": {
+    "id": 24288,
+    "name": "Rune Knight Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24289": {
+    "id": 24289,
+    "name": "Royal Guard Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24290": {
+    "id": 24290,
+    "name": "Mechanic Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24291": {
+    "id": 24291,
+    "name": "Genetic Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24292": {
+    "id": 24292,
+    "name": "Archbishop Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24293": {
+    "id": 24293,
+    "name": "Sura Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24294": {
+    "id": 24294,
+    "name": "Guillotine Cross Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24295": {
+    "id": 24295,
+    "name": "Shadow Chaser Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24296": {
+    "id": 24296,
+    "name": "Warlock Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24297": {
+    "id": 24297,
+    "name": "Sorcerer Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24298": {
+    "id": 24298,
+    "name": "Ranger Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24299": {
+    "id": 24299,
+    "name": "Minstrel Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24300": {
+    "id": 24300,
+    "name": "Wanderer Shadow Weapon",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24301": {
+    "id": 24301,
+    "name": "Rune Knight Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24302": {
+    "id": 24302,
+    "name": "Royal Guard Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24303": {
+    "id": 24303,
+    "name": "Mechanic Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24304": {
+    "id": 24304,
+    "name": "Genetic Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24305": {
+    "id": 24305,
+    "name": "Archbishop Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24306": {
+    "id": 24306,
+    "name": "Sura Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24307": {
+    "id": 24307,
+    "name": "Guillotine Cross Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24308": {
+    "id": 24308,
+    "name": "Shadow Chaser Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24309": {
+    "id": 24309,
+    "name": "Warlock Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24310": {
+    "id": 24310,
+    "name": "Sorcerer Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24311": {
+    "id": 24311,
+    "name": "Ranger Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24312": {
+    "id": 24312,
+    "name": "Minstrel Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24313": {
+    "id": 24313,
+    "name": "Wanderer Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24315": {
+    "id": 24315,
+    "name": "Taekwon Shadow Shield",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "24413": {
+    "id": 24413,
+    "name": "Star Emperor Shadow Shoes",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25155": {
+    "id": 25155,
+    "name": "Schwarzwald Token of Honor",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25669": {
+    "id": 25669,
+    "name": "Unknown Parts",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25723": {
+    "id": 25723,
+    "name": "Cor Core",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25739": {
+    "id": 25739,
+    "name": "Curse Eroded Crystal",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25740": {
+    "id": 25740,
+    "name": "Curse Eroded Gemstone",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25786": {
+    "id": 25786,
+    "name": "Somatology Research Document",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25787": {
+    "id": 25787,
+    "name": "Somatology Experimental Fragment",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25864": {
+    "id": 25864,
+    "name": "Sealed Temporal Circlet",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25865": {
+    "id": 25865,
+    "name": "Temporal Gemstone",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25866": {
+    "id": 25866,
+    "name": "Temporal Spell",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "25867": {
+    "id": 25867,
+    "name": "Temporal Fragment",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27012": {
+    "id": 27012,
+    "name": "Kick Step Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27013": {
+    "id": 27013,
+    "name": "Kick & Kick Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27018": {
+    "id": 27018,
+    "name": "GC109 Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27019": {
+    "id": 27019,
+    "name": "DR815 Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27020": {
+    "id": 27020,
+    "name": "[MVP] T W O Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27106": {
+    "id": 27106,
+    "name": "[MVP] Awaken Pere Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27107": {
+    "id": 27107,
+    "name": "Playing Pere Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27108": {
+    "id": 27108,
+    "name": "Singing Pere Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27109": {
+    "id": 27109,
+    "name": "Jitterbug Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27152": {
+    "id": 27152,
+    "name": "[MVP] Cutie Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27163": {
+    "id": 27163,
+    "name": "Faceworm Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27164": {
+    "id": 27164,
+    "name": "[MVP] Faceworm Queen Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27165": {
+    "id": 27165,
+    "name": "Dark Faceworm Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27166": {
+    "id": 27166,
+    "name": "Faceworm Egg Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27167": {
+    "id": 27167,
+    "name": "Faceworm Larva Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27168": {
+    "id": 27168,
+    "name": "Irene High Elder Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27169": {
+    "id": 27169,
+    "name": "Payon Soldier Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27181": {
+    "id": 27181,
+    "name": "Airship Raid Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27182": {
+    "id": 27182,
+    "name": "[MVP] Felock Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27183": {
+    "id": 27183,
+    "name": "Gigantes Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27184": {
+    "id": 27184,
+    "name": "Knight Sakray Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27249": {
+    "id": 27249,
+    "name": "Archi Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27250": {
+    "id": 27250,
+    "name": "Dio Anemos Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27251": {
+    "id": 27251,
+    "name": "Geffen Gangster Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27252": {
+    "id": 27252,
+    "name": "Geffen Thug Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27253": {
+    "id": 27253,
+    "name": "Geffen Thief Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27254": {
+    "id": 27254,
+    "name": "Pa - Monk Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27255": {
+    "id": 27255,
+    "name": "Ordre Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27256": {
+    "id": 27256,
+    "name": "Blut Hase Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27264": {
+    "id": 27264,
+    "name": "Evil Shadow Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27265": {
+    "id": 27265,
+    "name": "[MVP] Evil Fanatics Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27304": {
+    "id": 27304,
+    "name": "E-A2S Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27305": {
+    "id": 27305,
+    "name": "[MVP] EL-A17T Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27306": {
+    "id": 27306,
+    "name": "Heart Hunter Bellare Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27307": {
+    "id": 27307,
+    "name": "Mutant Heart Hunter Bellare Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27320": {
+    "id": 27320,
+    "name": "E-EA1L Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27326": {
+    "id": 27326,
+    "name": "[MVP] Morocc's Minion Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27327": {
+    "id": 27327,
+    "name": "[MVP] Grim Reaper Ankou Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27328": {
+    "id": 27328,
+    "name": "Birth and Death Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27329": {
+    "id": 27329,
+    "name": "[MVP] Cursed King Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27381": {
+    "id": 27381,
+    "name": "[MVP] Phantom of Himmelmez Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27382": {
+    "id": 27382,
+    "name": "Fallen Root",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27383": {
+    "id": 27383,
+    "name": "[MVP] Phantom of Amdarais Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27386": {
+    "id": 27386,
+    "name": "Cursed Raydric Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "27387": {
+    "id": 27387,
+    "name": "Cursed Raydric Archer Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28001": {
+    "id": 28001,
+    "name": "Evil Slayer Ripper Katar [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28310": {
+    "id": 28310,
+    "name": "Sarah's Left Earring",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28311": {
+    "id": 28311,
+    "name": "Sarah's Right Earring",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28326": {
+    "id": 28326,
+    "name": "Broken Chip 01 [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28327": {
+    "id": 28327,
+    "name": "Broken Chip 02 [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28381": {
+    "id": 28381,
+    "name": "Cute Grass Necklace [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28391": {
+    "id": 28391,
+    "name": "Thief Shadow Earring",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28392": {
+    "id": 28392,
+    "name": "Archer Shadow Earring",
+    "type": "Shadow Equip",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28522": {
+    "id": 28522,
+    "name": "Ring of The Fallen",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28605": {
+    "id": 28605,
+    "name": "Vicious Mind Book [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28703": {
+    "id": 28703,
+    "name": "Infinity Dagger [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28774": {
+    "id": 28774,
+    "name": "Royal Gladius (R) [2]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28775": {
+    "id": 28775,
+    "name": "Royal Gladius (L) [3]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "28913": {
+    "id": 28913,
+    "name": "Ultralight Magic Shield [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "32237": {
+    "id": 32237,
+    "name": "Celine's Brooch [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100476": {
+    "id": 100476,
+    "name": "Ymir Beads",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100479": {
+    "id": 100479,
+    "name": "Sakray's Wrath",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100480": {
+    "id": 100480,
+    "name": "Condensed Sakray's Wrath",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100485": {
+    "id": 100485,
+    "name": "Sakray's Regret",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100486": {
+    "id": 100486,
+    "name": "Condensed Sakray's Regret",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100650": {
+    "id": 100650,
+    "name": "Pontifex Courage",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100651": {
+    "id": 100651,
+    "name": "Pontifex Wisdom",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100652": {
+    "id": 100652,
+    "name": "Pontifex Tenacity",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100653": {
+    "id": 100653,
+    "name": "Pontifex Belief",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100753": {
+    "id": 100753,
+    "name": "Patent Ancient Hero's Cube",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "100821": {
+    "id": 100821,
+    "name": "Modified Hero's Refine Hammer",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102550": {
+    "id": 102550,
+    "name": "Antiquity Glast Heim (Cursed King Schmidt)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102551": {
+    "id": 102551,
+    "name": "Antiquity Glast Heim (Cursed King Schmidt (Hard))",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102552": {
+    "id": 102552,
+    "name": "Antiquity Glast Heim (Phantom of Amdarais)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102553": {
+    "id": 102553,
+    "name": "Antiquity Glast Heim (Phantom of Himmelmez)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102557": {
+    "id": 102557,
+    "name": "Antiquity Cor (EL-A17T)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102558": {
+    "id": 102558,
+    "name": "Antiquity Mansion (Meow)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102562": {
+    "id": 102562,
+    "name": "Antiquity Villa (Twisted God)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102564": {
+    "id": 102564,
+    "name": "Antiquity Isgard (Aquila)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102565": {
+    "id": 102565,
+    "name": "Antiquity Isgard (Aquila (First Class))",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102570": {
+    "id": 102570,
+    "name": "Antiquity Remorse (Sakray)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102571": {
+    "id": 102571,
+    "name": "Antiquity Somatology Dungeon (Unknown Swordsman)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102573": {
+    "id": 102573,
+    "name": "Antiquity Crash Site (Unidentified Creature)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "102947": {
+    "id": 102947,
+    "name": "Antiquity of Ghost Ship (Ghost Ship Captain)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "300170": {
+    "id": 300170,
+    "name": "Rotten Tree Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "300171": {
+    "id": 300171,
+    "name": "Grave Worm Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "300172": {
+    "id": 300172,
+    "name": "Brain Sucker Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "300192": {
+    "id": 300192,
+    "name": "[MVP] Sakray Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "300193": {
+    "id": 300193,
+    "name": "[MVP] Tiara Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "300280": {
+    "id": 300280,
+    "name": "[MVP] Broken Thanatos Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "300382": {
+    "id": 300382,
+    "name": "[MVP] Aquila Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "300532": {
+    "id": 300532,
+    "name": "[MVP] Ghost Ship Captain Card",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "400023": {
+    "id": 400023,
+    "name": "Drooping Thanatos's Dolor [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "400147": {
+    "id": 400147,
+    "name": "C. Dropping Betelgeuse",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "400148": {
+    "id": 400148,
+    "name": "C. Black Dragon Wig (brown)",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "436000": {
+    "id": 436000,
+    "name": "Thanatos's Maero Mask",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "436001": {
+    "id": 436001,
+    "name": "Thanatos's Despero Mask",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "436002": {
+    "id": 436002,
+    "name": "Thanatos's Odium Mask",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "470071": {
+    "id": 470071,
+    "name": "Boots of Unknown Power [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "470072": {
+    "id": 470072,
+    "name": "Boots of Unknown Dexterity [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "470073": {
+    "id": 470073,
+    "name": "Boots of Unknown Life [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "470074": {
+    "id": 470074,
+    "name": "Boots of Unknown Magic Power [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "470076": {
+    "id": 470076,
+    "name": "Boots of Unknown Agility [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "470077": {
+    "id": 470077,
+    "name": "Boots of Unknown Luck [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "490050": {
+    "id": 490050,
+    "name": "Sinful Amethyst Ring [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "490051": {
+    "id": 490051,
+    "name": "Sinful Amethyst Necklace [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "490058": {
+    "id": 490058,
+    "name": "Brilliant Light Amethyst Ring [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "490059": {
+    "id": 490059,
+    "name": "Brilliant Light Amethyst Necklace [1]",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000103": {
+    "id": 1000103,
+    "name": "Varmeal Ticket",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000104": {
+    "id": 1000104,
+    "name": "Magical Soapstone",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000257": {
+    "id": 1000257,
+    "name": "Piece of Sin",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000263": {
+    "id": 1000263,
+    "name": "Fragment of Good Will",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000367": {
+    "id": 1000367,
+    "name": "Minneas",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000372": {
+    "id": 1000372,
+    "name": "Meteorite Powder",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000373": {
+    "id": 1000373,
+    "name": "Meteorite Fragment",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000396": {
+    "id": 1000396,
+    "name": "Naght Sieger Soul",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000397": {
+    "id": 1000397,
+    "name": "Betelgeuse Soul",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000405": {
+    "id": 1000405,
+    "name": "Amethyst Fragment",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000442": {
+    "id": 1000442,
+    "name": "Power Meteorite Fragment",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000443": {
+    "id": 1000443,
+    "name": "Stamina Meteorite Fragment",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000444": {
+    "id": 1000444,
+    "name": "Agile Meteorite Fragment",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000471": {
+    "id": 1000471,
+    "name": "Villa Basement Key",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000501": {
+    "id": 1000501,
+    "name": "Holy Oil of Purification",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000502": {
+    "id": 1000502,
+    "name": "Holy Water of Purification",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000608": {
+    "id": 1000608,
+    "name": "Flower Petals",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000811": {
+    "id": 1000811,
+    "name": "Snow Flower Ore",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000812": {
+    "id": 1000812,
+    "name": "Snowflower Gem",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000813": {
+    "id": 1000813,
+    "name": "Shining Snowflower Gem",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1000814": {
+    "id": 1000814,
+    "name": "Brilliant Snow Flower Manastone",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001074": {
+    "id": 1001074,
+    "name": "Heavy Chain",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001076": {
+    "id": 1001076,
+    "name": "Small Sewing Kit",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001079": {
+    "id": 1001079,
+    "name": "Monstrous Tentacles",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001082": {
+    "id": 1001082,
+    "name": "Monster's Stone",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001083": {
+    "id": 1001083,
+    "name": "Maple Leaves",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001414": {
+    "id": 1001414,
+    "name": "Dimensional Crystal Fragment",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001415": {
+    "id": 1001415,
+    "name": "Hall of Life Key",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001440": {
+    "id": 1001440,
+    "name": "Energy of Spring",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001441": {
+    "id": 1001441,
+    "name": "Energy of Summer",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001442": {
+    "id": 1001442,
+    "name": "Energy of Autumn",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001443": {
+    "id": 1001443,
+    "name": "Energy of Winter",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  },
+  "1001618": {
+    "id": 1001618,
+    "name": "Wigner Merchant Guild Voucher",
+    "type": "Etc",
+    "description": "",
+    "obtainFrom": []
+  }
+}

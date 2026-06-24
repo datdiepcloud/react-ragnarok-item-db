@@ -1,0 +1,109 @@
+:root {
+  --bg-base: #080818;
+  --bg-card: #0f0f26;
+  --bg-header: #0c0c22;
+  --bg-input: #1a1a2e;
+  --bg-ingredient: #12122a;
+  --bg-dropdown: #16213e;
+
+  --border: #2a2a4a;
+  --border-hover: #4a4a8a;
+  --border-input: #4a4a7a;
+  --border-input-focus: #c8a951;
+
+  --text-primary: #e0e0ff;
+  --text-secondary: #9090b0;
+  --text-muted: #6666aa;
+  --text-dim: #555577;
+  --text-link: #a0b4ff;
+  --text-link-hover: #c0d0ff;
+
+  --accent: #c8a951;
+  --accent-subtle: rgba(200, 169, 81, 0.07);
+  --accent-border: rgba(200, 169, 81, 0.3);
+
+  --map-color: #8899cc;
+  --drop-rate-color: #e8a040;
+  --price-color: #ffe080;
+  --qty-color: #e0c060;
+  --zeny-color: #ffe080;
+  --quest-border: #5555aa;
+  --quest-bg: rgba(85, 85, 170, 0.08);
+  --quest-name: #aab4ff;
+  --quest-desc: #8888aa;
+
+  --scrollbar-track: #0c0c22;
+  --scrollbar-thumb: #3a3a6a;
+  --scrollbar-thumb-hover: #5555aa;
+
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="light"] {
+  --bg-base: #f0f0f8;
+  --bg-card: #ffffff;
+  --bg-header: #ffffff;
+  --bg-input: #ffffff;
+  --bg-ingredient: #f5f5fc;
+  --bg-dropdown: #ffffff;
+
+  --border: #d0d0e8;
+  --border-hover: #9090cc;
+  --border-input: #aaaacc;
+  --border-input-focus: #8866aa;
+
+  --text-primary: #1a1a3a;
+  --text-secondary: #44446a;
+  --text-muted: #6655aa;
+  --text-dim: #9999bb;
+  --text-link: #4455cc;
+  --text-link-hover: #2233aa;
+
+  --accent: #8855aa;
+  --accent-subtle: rgba(136, 85, 170, 0.07);
+  --accent-border: rgba(136, 85, 170, 0.3);
+
+  --map-color: #334499;
+  --drop-rate-color: #b06000;
+  --price-color: #886600;
+  --qty-color: #886600;
+  --zeny-color: #886600;
+  --quest-border: #7766cc;
+  --quest-bg: rgba(119, 102, 204, 0.08);
+  --quest-name: #4455bb;
+  --quest-desc: #6655aa;
+
+  --scrollbar-track: #e8e8f8;
+  --scrollbar-thumb: #aaaacc;
+  --scrollbar-thumb-hover: #8888bb;
+
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  transition: background 0.2s, color 0.2s;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4 { margin: 0; }
+p { margin: 0; }
+button { font-family: inherit; }
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--scrollbar-track); }
+::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover); }
